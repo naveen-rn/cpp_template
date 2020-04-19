@@ -1,0 +1,12 @@
+*.d
+*.o
+*.so
+*.exe
+*.out
+core
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+runTests
+Makefile
